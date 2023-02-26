@@ -1,0 +1,91 @@
+header {
+    height: 300px;
+    width: 100%;
+    background-color: #3b2632;
+}
+
+.step1{
+    height: 250px;
+    width: 250px;
+    background-color: lightgray;
+    margin-left: 15%;
+    margin-top: 1%;
+    position: absolute;
+    border-radius: 20%;
+}
+
+.step1 > img {
+    width: 217px;
+    height: 222px;
+    margin-left: 6%;
+    margin-top: 6%;
+}
+
+.step2{
+    font-size: 45px;
+    color: white;
+    margin-left: 58%;
+    margin-top: 8%;
+    position: absolute;
+}
+
+
+#about {
+    height: 100px;
+    width: 100%;
+    margin-top: 2%;
+    background-color: rgb(243, 188, 174);
+    font-size: 35px;
+    text-align: center;
+}
+
+.text1{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 1%;
+}
+
+
+#skills{
+    height: 120px;
+    width: 100%;
+    margin-top: 2%;
+    background-color: rgb(184, 235, 160);
+    font-size: 35px;
+    text-align: center;
+}
+
+.logo > img {
+    width: 50px;
+    height: 50px;
+    margin-top: 2%;
+}
+
+#hobbies{
+    height: 100px;
+    width: 100%;
+    margin-top: 2%;
+    background-color: lightskyblue;
+    font-size: 35px;
+    text-align: center;
+}
+
+.text{
+    font-size: 25px;
+    margin-top: 2%;
+}
+
+#map{
+    margin-top: 2%;
+}
+
+footer{
+    height: 80px;
+    width: 100%;
+    margin-top: 2%;
+    background-color: rgb(237, 174, 243);
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
