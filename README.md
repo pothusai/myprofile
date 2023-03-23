@@ -2,15 +2,15 @@
 
 I'm
 Full Stack Developer
-The crossover between design and programming has always been of interest to me, My interest are in . I have a basic range of skills that include back-end development using open source technologies (NodeJs),front-end development (React, ReactJs, HTML5, CSS3, Javascript),database(MongoDB)
+The crossover between design and programming has always been of interest to me, My interest are in Front End Engineering, and I love to create beautiful and performant products with delightful user experiences. I have a basic range of skills that include back-end development using open source technologies (NodeJs),front-end development (React, ReactJs, HTML5, CSS3, Javascript),database(MongoDB)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/saideveloper/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=saideveloper&column=7"/>
   </a>
 </div>
 
